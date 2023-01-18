@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.Header {
+  background-color: #ffffff;
+  width: 100%;
+}
+.Header-Container{
+width: 100%;
+}
+
+
+.input-group.md-form.form-sm.form-1 input {
+  border: 1px solid #bdbdbd;
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.row_container{
+width: 100%;
+background-color: #61dafb;
+}
+
+.logoContainer {
+  position: relative; 
+  width: 15%;
+  margin: auto;
+
+}
+
+.Header-logo {  
+  position: relative;
+  width:120%;  
+}
+
+.searchContainer {
+  position: relative; 
+  width: 100%;
+}
+
+
+
+.barContainer {
+  position: relative; 
+  width: 80%;
+}
+
+
+
+.login_container {
+  position: relative;
+  text-align: center;  
+  width: 15%;
+  color: rgb(0, 0, 0);
+}
+
+.nube_login {  
+  width: 100%;
+  position: absolute;
+  left: 5%;
+  top: 5%;
+}
+.text_login {  
+  position: absolute;
+  transform: translate(-50%, -50%);
+  font-family: arial, sans-serif;
+  font-weight: bold;
+  font-size: 1.3vw;
+  
+}
+
+.text_login_container {  
+  width: 20%;
+  position: absolute;
+  left: 35%;
+  top: 35%;
+  
+}
+.profile_foto_login {  
+  width: 20%;
+  position: absolute;
+  left: 75%;
+  top: 10%;
+  
+}
+
+
+.Header a {
+  float: left;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+.link {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 64px;
+  text-align: center;
+  color: #00B8A9;
+
+}

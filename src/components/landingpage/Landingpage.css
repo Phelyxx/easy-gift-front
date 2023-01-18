@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+  .body_container {
+    position: relative;
+    text-align: left;  
+    color: rgb(0, 0, 0);
+    padding-bottom: 20%;
+    overflow: hidden;
+  }
+  
+  .initial_text_0 {
+    padding-top: 15%;
+    padding-left: 5%;
+    width: 95%;
+    position: relative;
+    color: #000000;
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+    font-size:200%
+  }
+
+  
+
+  .text_color_0 {
+    position: relative;
+    color: #EA0B3F;
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+  }
+
+
+  
+  .text_circles_container {
+    position: relative;
+    text-align: right;  
+    color: rgb(0, 0, 0);
+  }
+
+  .second_text_0 {
+    padding-top: 0%;
+    width: 80%;
+    position: relative;
+    text-align: right;
+    color: #000000;
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+    font-size:150%;
+    right: 10%;
+  }
+
+
+  .second_color_0 {
+    position: absolute;
+    color: #00B8A9;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+  }
+  .circles_img_container {
+    position: absolute;
+    color: rgb(0, 0, 0);
+    width: 20%;
+  }
+
+  .circles_img {  
+    width: 35%;
+    position: absolute;
+    bottom: -3cm;
+    left: 100%;
+  }
+
+
+  /*Third text*/
+
+  
+  .text_circles_container_2 {
+    position: relative;
+    color: rgb(0, 0, 0);
+    padding-top: 20%;
+    padding-bottom: 5%;
+  }
+
+  .third_text_0 {
+    width: 80%;
+    position: relative;
+    text-align: left;
+    color: #000000;
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+    font-size:150%;
+    left: 14%;
+  }
+
+  .circles_img_container_2 {
+    position: absolute;
+    color: rgb(0, 0, 0);
+    width: 20%;
+  }
+
+  .circles_img_2 {  
+    width: 30%;
+    position: absolute;
+    bottom: -2cm;
+  }
+
+
+  /* Social 
+  */
+
+  .social_img_container {
+    position: relative;
+    text-align: left;  
+    color: rgb(0, 0, 0);
+    width: 55%;
+  }
+
+
+
+  .social_img {  
+    width: 100%;
+    position: relative;
+    left: 0%;
+    top: 0%;
+  }
+
+  
+  .initial_img_container {
+    position: relative;
+    width: 90%;
+  }
+  .initial_img {  
+    width: 150%;
+    position: relative;
+    right: 25% ;
+    bottom: 15%;
+  }
+  
+  .second_img_container {
+    position: relative;
+    text-align: left;  
+    width: 100%;
+  }
+  .second_img {  
+    width: 170%;
+    position: relative;
+    right: 0% ;
+    top: 10% ;
+  }
+  .third_img_container {
+    position: relative;
+    text-align: left;  
+    width: 100%;
+  }
+  .third_img {  
+    width: 100%;
+    position: absolute;
+    right: 0% ;
+    bottom: -6cm;
+  }
+
+
+  /*CARDS*/
+  .cards_container{
+    width: 100%;
+    position: relative;
+    color: rgb(0, 0, 0);
+    padding-bottom: 5%;
+    margin: auto;
+  }
+
+  .card_pink {
+    height: 100%;
+    object-fit: cover;
+    background-color: #ffe4e4;
+}  
+.card_cyan {
+    height: 100%;
+    object-fit: cover;
+    background-color: #e6f8f6;
+}
+
+
+.cyan_format {
+    position: relative;
+    color: #00B8A9;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  
+
+.pink_format {
+    position: relative;
+    color: #EA0B3F;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+  }
+  .normal_format {
+    position: relative;
+    color: #000000;
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    width: 70%;
+    margin: auto;
+  }
+
+  /*CARRUSEL*/  
+  .carousel_container {
+    position: relative;
+    padding-bottom: 10%;
+    margin: auto;
+    width: fit-content;
+
+  }

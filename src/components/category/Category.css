@@ -1,0 +1,24 @@
+.form-check:checked{
+background-color: rgb(234, 11, 63) !important;
+}
+
+.form-check-input::after{
+background-color: rgb(234, 11, 63) !important;
+}
+
+.form-check-input:not(:disabled):not(.disabled):active
+{
+    background-color: rgb(234, 11, 63) !important;
+}
+
+.form-check-input:not(:disabled):not(.disabled):checked:focus
+{
+    background-color: rgb(234, 11, 63) !important;
+}
+
+.form-check-input:not(:disabled):not(.disabled):checked
+{
+    background-color: rgb(234, 11, 63) !important;
+}
+    
+

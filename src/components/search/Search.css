@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.body_container {
+    position: relative;
+    text-align: left;
+    color: rgb(0, 0, 0);
+    padding-bottom: 20%;
+}
+
+
+.filter_container_search {
+    position: relative;
+    background-color: #ffe4e4;
+    border-radius: 12%;
+    height: 500px;
+}
+
+
+.form_sort_search {
+    position: relative;
+    padding-top: 5%;
+    margin: auto;
+    left: 10%;
+}
+
+
+
+.subform_search {
+    position: relative;
+    padding-top: 5%;
+    margin: auto;
+    left: 15%;
+}
+
+.form_categories_search {
+    position: relative;
+    padding-top: 5%;
+    padding-bottom: 15%;
+    margin: auto;
+    left: 15%;
+}
+
+.filter_text_color_cyan {
+    padding-top: 10%;
+    position: relative;
+    color: #00B8A9;
+    font-family: Arial, sans-serif;
+    font-weight: 900;
+    font-size: 2vw;
+}
+
+
+.text_color_pink {
+    position: relative;
+    color: #EA0B3F;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+
+.text_color_cyan {
+    position: relative;
+    color: #00B8A9;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+
+
+
+.search_container {
+    position: relative;
+    padding-top: 2%;
+    padding-left: 5%;
+}
+
+.pagination_container {
+    position: relative;
+    text-align: center;
+    margin: auto;
+}
+
+.title_color_cyan {
+    position: relative;
+    color: #00B8A9;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+
+
+/*CARDS*/
+.cards_container_search {
+    width: 50%;
+    position: relative;
+    color: rgb(0, 0, 0);
+    padding-bottom: 5%;
+    margin: auto;
+}
+
+.card_search {
+    height: 100%;
+    object-fit: cover;
+    margin: auto;
+    background-color: #ffe4e4;
+}
+
+.card_img_search {
+    height:15vw;
+    object-fit: cover;
+    margin: auto;
+    background-color: #ffe4e4;
+}
+
+.card_cyan {
+    height: 100%;
+    object-fit: cover;
+    background-color: #e6f8f6;
+}
+
+
+.cyan_format {
+    position: relative;
+    color: #00B8A9;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+.pink_format {
+    position: relative;
+    color: #EA0B3F;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.normal_format_search {
+    position: relative;
+    color: #000000;
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    width: 70%;
+    margin: auto;
+}

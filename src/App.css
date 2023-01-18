@@ -1,0 +1,18 @@
+.aqua {
+  color: rgb(0, 184, 169);
+}
+
+.rose {
+  color: rgb(234, 11, 63);
+}
+
+.btn-rose {
+  background-color: rgb(241, 157, 177) !important;
+  color: white !important;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  cursor: pointer;
+}

@@ -1,0 +1,41 @@
+.btn-plain {
+    border-color: #fff !important; 
+    color: #fff !important;
+}
+
+.plain {
+    border-color: #fff !important; 
+    color: #fff !important;
+}
+
+.btn-plain:hover, .btn-plain:active {
+    color: #fff !important;
+    border-color: #00B8A9 !important;
+}
+
+.plain:hover, .plain:active {
+    color: #fff !important;
+    border-color: #00B8A9 !important;
+}
+
+.btn-newWishlist {
+    border-color: #fff !important;
+    background-color: #CFFFFB !important; 
+    color: black !important;
+}
+
+.card-newWishlist {
+    border-color: #fff !important;
+    background-color: #CFFFFB !important; 
+    color: black !important;
+}
+
+.btn-newWishlist:hover, .btn-newWishlist:active {
+    border-color: #00B8A9 !important;
+}
+
+@media screen and (max-width: 728px) {
+    h1.icono {
+        display: none !important;
+    }
+}

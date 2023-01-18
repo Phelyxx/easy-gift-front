@@ -1,0 +1,19 @@
+.signUp {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 64px;
+    text-align: right;
+    color: #00B8A9;
+
+  }
+.create-account{
+    font-family: "Arial", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 64px;
+    text-decoration: underline;
+    color: #CCCCCC;
+}

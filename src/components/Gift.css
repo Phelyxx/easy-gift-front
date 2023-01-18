@@ -1,0 +1,57 @@
+.btn-wishlist {
+    border-color: #EA0B3F !important; 
+    color: black !important;
+}
+
+.btn-wishlist:hover, .btn-wishlist:active {
+    color: #fff !important;
+    background-color: #EA0B3F !important;
+    border-color: #EA0B3F !important; 
+}
+
+.btn-plain {
+    border-color: #fff !important; 
+    color: #fff !important;
+}
+
+.btn-plain:hover, .btn-plain:active {
+    color: #fff !important;
+    border-color: #00B8A9 !important;
+}
+
+.btn-before {
+    border-color: #fff !important; 
+    color: gray !important;
+}
+
+.modal-title{
+    font-weight: 400 !important;
+}
+
+.modal-header {
+    border-bottom: 0 none !important;
+}
+
+.modal-footer {
+    border-top: 0 none !important;
+}
+
+.card-img-creating {
+    height: 10vw !important;
+}
+
+.card-img-addToWishlist {
+    height: 15vw !important;
+}
+
+@media screen and (max-width: 820px) {
+        .card-img-creating {
+            height: 40vw !important;
+        }
+}
+
+@media screen and (max-width: 820px) {
+    .card-img-addToWishlist {
+        height: 45vw !important;
+    }
+}

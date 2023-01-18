@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.End {
+    text-align: center;
+    margin: auto;
+    width: fit-content;
+
+}
+
+  
+.End-header {
+    background-color: #ffe4e4;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    color: rgb(0, 0, 0);
+    margin: auto;
+    position: relative;
+    overflow: hidden; 
+  }
+  
+.End_col_container {
+  left: 0%;
+    position: relative;
+    width: 300%;
+    padding: 5%;
+    text-align: center;  
+    color: #EA0B3F;
+    font-family: Arial, sans-serif;
+    font-weight: 1000;
+    font-size: 2vw;
+
+}
+
+.End_tp_row {
+    padding: 5% 0;
+    width: 100%;
+    position: relative; 
+    left: 10%;
+    background-color: #c5c5c5;
+  }
+
+  .End_top_text {
+    padding: 5%;
+    position: relative;
+    vertical-align: middle;    
+    color: #000000;
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+    font-size: 1.2vw;
+    width: 200%;
+  }
+
+
+
+
+  .End_social_img_container {
+    position: relative;
+    text-align: left;  
+    color: rgb(0, 0, 0);
+    width: 100%;
+  }
+
+
+
+  .End_social_img {  
+    width: 80%;
+    position: relative;
+    left: 0%;
+    top: 0%;
+  }
+
+.End_bottom_row {
+    padding: 0% 0;
+    position: relative;
+    vertical-align: middle;    
+    color: rgb(0, 0, 0);
+    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 70%;
+    width: 100%;
+  }
+
+  .End_copyright_container {
+    height: 100%;
+    padding: 5% 0;
+    text-align: center;  
+    vertical-align: middle;
+    margin: auto;
+
+}
+
+  .End_logo_container {
+    position: relative;
+    text-align: left;  
+    color: rgb(0, 0, 0);
+    width: 10vw;
+  }
+
+  .End-logo {  
+    width: 80%;
+    position: relative;
+    left: 80%;
+    top: 0%;
+  }
+  
+  .End-link {
+    color: #61dafb;
+  }
+ 
+  .End_social_img_container {
+    position: relative;
+    right: 0%; 
+    color: rgb(0, 0, 0);
+    width: 100%;
+  }
+
+
+
+  .End_social_img {  
+    width: 50%;
+    position: relative;
+    left: 0%;
+    top: 0%;
+  }
